@@ -45,8 +45,4 @@ echo htmlspecialchars($string2);
 printf('%s likes to %s', 'AlanMatthias', 'code');
 printf('1+1=%f', 1+1);
 
-
-
-
-
 ?>
